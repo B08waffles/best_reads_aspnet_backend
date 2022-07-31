@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1V7NlKF7uVtTcu0uqrZH1b+8OCToUJGtdmn81P7lb6Y=",
+  "Source": "best_reads_backend",
+  "BasePath": "_content/best_reads_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
